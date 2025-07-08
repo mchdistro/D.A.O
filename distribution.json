@@ -124,6 +124,16 @@
             "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v1-1.21.4/fabricmods/required/fabric-api-0.119.3+1.21.4.jar",
             "MD5": "179994db46a00373614c47fb669d1dd3"
           }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 112,
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v1-1.21.4/files/options.txt",
+            "path": "options.txt"
+          }
         }
       ]
     }
