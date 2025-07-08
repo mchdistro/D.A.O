@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///D:/Coding/Projects/mchlauncher/Distro/D.A.O/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "두아온",
+    "description": "Minecraft 1.21.4 (Fabric v0.16.14)",
+    "icon": "https://github.com/mchdistro/D.A.O/raw/main/server-icon.png",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": false
+  },
+  "fabric": {
+    "version": "0.16.14"
+  },
+  "untrackedFiles": []
+}
