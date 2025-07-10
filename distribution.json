@@ -13,7 +13,7 @@
       "description": "Minecraft 1.21.4 (Fabric v0.16.14)",
       "icon": "https://github.com/mchdistro/D.A.O/raw/main/server-icon.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "211.53.196.142:13186",
       "minecraftVersion": "1.21.4",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -21,7 +21,7 @@
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
       "mainServer": true,
-      "autoconnect": false,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.fabricmc:fabric-loader:0.16.14",
@@ -116,6 +116,36 @@
           ]
         },
         {
+          "id": "com.ebicep:chatplus:2.6.0@jar",
+          "name": "ChatPlus",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 26736918,
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v1-1.21.4/fabricmods/required/chatplus-fabric-2.6.0.jar",
+            "MD5": "335c0f0a72abca3a93892cae05cce1d8"
+          }
+        },
+        {
+          "id": "me.shedaniel.autoconfig.example:cloth-config:17.0.144@jar",
+          "name": "Cloth Config v17",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1152857,
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v1-1.21.4/fabricmods/required/cloth-config-17.0.144-fabric.jar",
+            "MD5": "07b7d5bc15bdc7387cf8890d0c460b54"
+          }
+        },
+        {
+          "id": "org.purebluewater:dooseven-custom:1.1@jar",
+          "name": "Dooseven Custom",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 995775,
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v1-1.21.4/fabricmods/required/Dooseven-Custom-1.1.jar",
+            "MD5": "078be3d3dc672e1d837a8a4f4ebf61d3"
+          }
+        },
+        {
           "id": "generated.fabricmod:fabric-api:0.119.3+1.21.4@jar",
           "name": "Fabric API",
           "type": "FabricMod",
@@ -126,6 +156,56 @@
           }
         },
         {
+          "id": "generated.fabricmod:iris:1.8.8+mc1.21.4@jar",
+          "name": "Iris",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2682702,
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v1-1.21.4/fabricmods/required/iris-fabric-1.8.8+mc1.21.4.jar",
+            "MD5": "59d373e4874efbcb8fb426bdefa588d9"
+          }
+        },
+        {
+          "id": "com.hyfata.najoan:koreanpatch:1.8.5+mc1.21.3@jar",
+          "name": "Korean Patch",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 578977,
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v1-1.21.4/fabricmods/required/koreanpatch-fabric-1.8.5+mc1.21.3.jar",
+            "MD5": "fcf0f59c7f45c751af04527080bc4e28"
+          }
+        },
+        {
+          "id": "net.caffeinemc.mods:sodium:0.6.13+mc1.21.4@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1306799,
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v1-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
+            "MD5": "28922a78d1876ee062e3265f10abcc46"
+          }
+        },
+        {
+          "id": "net.wurstclient.zoom:wi_zoom:1.6-MC1.21.4@jar",
+          "name": "WI Zoom",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 154830,
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v1-1.21.4/fabricmods/required/WI-Zoom-1.6-MC1.21.4.jar",
+            "MD5": "1062016a1608823555c1bf16fafeb6cd"
+          }
+        },
+        {
+          "id": "chatplus-v2.5.0.json",
+          "name": "chatplus-v2.5.0.json",
+          "type": "File",
+          "artifact": {
+            "size": 9763,
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v1-1.21.4/files/config/chatplus-v2.5.0.json",
+            "path": "config/chatplus-v2.5.0.json"
+          }
+        },
+        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
@@ -133,6 +213,17 @@
             "size": 112,
             "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v1-1.21.4/files/options.txt",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.5.1.zip",
+          "name": "ComplementaryUnbound_r5.5.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 456332,
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v1-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip",
+            "MD5": "576ef06da170458879f3a03e685d487a",
+            "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip"
           }
         }
       ]
