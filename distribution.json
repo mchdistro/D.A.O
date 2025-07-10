@@ -240,6 +240,17 @@
           }
         },
         {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 75,
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v1-1.21.4/files/servers.dat",
+            "MD5": "fe74aa2761d1ba2af772448afe0a11c8",
+            "path": "servers.dat"
+          }
+        },
+        {
           "id": "ComplementaryUnbound_r5.5.1.zip",
           "name": "ComplementaryUnbound_r5.5.1.zip",
           "type": "File",
