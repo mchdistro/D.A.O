@@ -116,6 +116,16 @@
           ]
         },
         {
+          "id": "dev.architectury.utils:architectury:15.0.3@jar",
+          "name": "Architectury",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 589645,
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v1-1.21.4/fabricmods/required/architectury-15.0.3-fabric.jar",
+            "MD5": "29796a5960d833cf95d6f46668c13d55"
+          }
+        },
+        {
           "id": "com.ebicep:chatplus:2.6.0@jar",
           "name": "ChatPlus",
           "type": "FabricMod",
@@ -153,6 +163,16 @@
             "size": 2148367,
             "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v1-1.21.4/fabricmods/required/fabric-api-0.119.3+1.21.4.jar",
             "MD5": "179994db46a00373614c47fb669d1dd3"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-language-kotlin:1.13.4+kotlin.2.2.0@jar",
+          "name": "Fabric Language Kotlin",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 7387359,
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v1-1.21.4/fabricmods/required/fabric-language-kotlin-1.13.4+kotlin.2.2.0.jar",
+            "MD5": "5edf1cfa6574e3e1e38c2e4f1b5a557e"
           }
         },
         {
