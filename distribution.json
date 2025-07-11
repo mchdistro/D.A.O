@@ -150,13 +150,9 @@
           "name": "Dooseven Custom",
           "type": "FabricMod",
           "artifact": {
-            "size": 995775,
-            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v1-1.21.4/fabricmods/optionaloff/Dooseven-Custom-1.1.jar",
-            "MD5": "078be3d3dc672e1d837a8a4f4ebf61d3"
-          },
-          "required": {
-            "value": false,
-            "def": false
+            "size": 995745,
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v1-1.21.4/fabricmods/required/Dooseven-Custom-1.1.jar",
+            "MD5": "e1ac1b872aceb444cbfcfaae2efbb354"
           }
         },
         {
