@@ -13,7 +13,7 @@
       "description": "Minecraft 1.21.4 (Fabric v0.16.14)",
       "icon": "https://github.com/mchdistro/D.A.O/raw/main/server-icon.png",
       "version": "1.0.0",
-      "address": "211.53.196.142:13186",
+      "address": "211.53.196.142",
       "minecraftVersion": "1.21.4",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -240,9 +240,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 75,
+            "size": 87,
             "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v1-1.21.4/files/servers.dat",
-            "MD5": "fe74aa2761d1ba2af772448afe0a11c8",
+            "MD5": "161dba55917cb727463cf6bb886b3101",
             "path": "servers.dat"
           }
         },
