@@ -146,13 +146,13 @@
           }
         },
         {
-          "id": "org.purebluewater:dooseven-custom:1.2@jar",
+          "id": "org.purebluewater:dooseven-custom:1.3@jar",
           "name": "Dooseven Custom",
           "type": "FabricMod",
           "artifact": {
-            "size": 995762,
-            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v1-1.21.4/fabricmods/required/Dooseven-Custom-1.2.jar",
-            "MD5": "0bab5354b1e53dc7d17f0ce6d3d353d8"
+            "size": 997581,
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v1-1.21.4/fabricmods/required/Dooseven-Custom-1.3.jar",
+            "MD5": "382ec4a3d995ab3a3545f144e03a07d3"
           }
         },
         {
