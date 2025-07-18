@@ -196,6 +196,16 @@
           }
         },
         {
+          "id": "com.aizistral:nochatreports:1.21.4-v2.11.0@jar",
+          "name": "No Chat Reports",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 321286,
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/fabricmods/required/NoChatReports-FABRIC-1.21.4-v2.11.0.jar",
+            "MD5": "47bd3acbbaaf09dae1c5142dc5b3f41c"
+          }
+        },
+        {
           "id": "net.caffeinemc.mods:sodium:0.6.13+mc1.21.4@jar",
           "name": "Sodium",
           "type": "FabricMod",
