@@ -20,7 +20,7 @@
   "untrackedFiles": [
     {
       "appliesTo": ["files"],
-      "patterns": ["options.txt", "config/chatplus-v2.5.0.json"]
+      "patterns": ["options.txt", "config/*.json", "config/*.txt", "shaderpacks/*.txt"]
     }
   ]
 }

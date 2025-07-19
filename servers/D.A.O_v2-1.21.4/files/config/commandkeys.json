@@ -1,0 +1,222 @@
+{
+  "version": 6,
+  "profiles": [
+    {
+      "version": 4,
+      "name": "Default Profile",
+      "links": [],
+      "addToHistory": "OFF",
+      "showHudMessage": "OFF",
+      "resumeRepeating": "OFF",
+      "useRatelimit": "ON",
+      "macros": [
+        {
+          "version": 6,
+          "addToHistory": false,
+          "showHudMessage": false,
+          "resumeRepeating": false,
+          "useRatelimit": true,
+          "conflictStrategy": "SUBMIT",
+          "sendMode": "SEND",
+          "activationType": "HOLD",
+          "spaceTicks": 0,
+          "keybind": {
+            "version": 0,
+            "keyName": "key.keyboard.b",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "altKeybind": {
+            "version": 0,
+            "keyName": "key.keyboard.unknown",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "messages": [
+            {
+              "version": 1,
+              "string": "/riding",
+              "delayTicks": 0
+            }
+          ]
+        },
+        {
+          "version": 6,
+          "addToHistory": false,
+          "showHudMessage": false,
+          "resumeRepeating": false,
+          "useRatelimit": true,
+          "conflictStrategy": "SUBMIT",
+          "sendMode": "SEND",
+          "activationType": "HOLD",
+          "spaceTicks": 0,
+          "keybind": {
+            "version": 0,
+            "keyName": "key.keyboard.grave.accent",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "altKeybind": {
+            "version": 0,
+            "keyName": "key.keyboard.unknown",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "messages": [
+            {
+              "version": 1,
+              "string": "/menu",
+              "delayTicks": 0
+            }
+          ]
+        },
+        {
+          "version": 6,
+          "addToHistory": false,
+          "showHudMessage": false,
+          "resumeRepeating": false,
+          "useRatelimit": true,
+          "conflictStrategy": "SUBMIT",
+          "sendMode": "SEND",
+          "activationType": "HOLD",
+          "spaceTicks": 0,
+          "keybind": {
+            "version": 0,
+            "keyName": "key.keyboard.p",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "altKeybind": {
+            "version": 0,
+            "keyName": "key.keyboard.unknown",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "messages": [
+            {
+              "version": 1,
+              "string": "/파티",
+              "delayTicks": 0
+            }
+          ]
+        },
+        {
+          "version": 6,
+          "addToHistory": false,
+          "showHudMessage": false,
+          "resumeRepeating": false,
+          "useRatelimit": true,
+          "conflictStrategy": "SUBMIT",
+          "sendMode": "SEND",
+          "activationType": "HOLD",
+          "spaceTicks": 0,
+          "keybind": {
+            "version": 0,
+            "keyName": "key.keyboard.left.bracket",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "altKeybind": {
+            "version": 0,
+            "keyName": "key.keyboard.unknown",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "messages": [
+            {
+              "version": 1,
+              "string": "/infohud",
+              "delayTicks": 0
+            }
+          ]
+        },
+        {
+          "version": 6,
+          "addToHistory": false,
+          "showHudMessage": false,
+          "resumeRepeating": false,
+          "useRatelimit": true,
+          "conflictStrategy": "SUBMIT",
+          "sendMode": "SEND",
+          "activationType": "HOLD",
+          "spaceTicks": 0,
+          "keybind": {
+            "version": 0,
+            "keyName": "key.keyboard.right.bracket",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "altKeybind": {
+            "version": 0,
+            "keyName": "key.keyboard.unknown",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "messages": [
+            {
+              "version": 1,
+              "string": "/stathud",
+              "delayTicks": 0
+            }
+          ]
+        },
+        {
+          "version": 6,
+          "addToHistory": false,
+          "showHudMessage": false,
+          "resumeRepeating": false,
+          "useRatelimit": true,
+          "conflictStrategy": "SUBMIT",
+          "sendMode": "SEND",
+          "activationType": "HOLD",
+          "spaceTicks": 0,
+          "keybind": {
+            "version": 0,
+            "keyName": "key.keyboard.semicolon",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "altKeybind": {
+            "version": 0,
+            "keyName": "key.keyboard.unknown",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "messages": [
+            {
+              "version": 1,
+              "string": "/skillhud",
+              "delayTicks": 0
+            }
+          ]
+        },
+        {
+          "version": 6,
+          "addToHistory": false,
+          "showHudMessage": false,
+          "resumeRepeating": false,
+          "useRatelimit": true,
+          "conflictStrategy": "SUBMIT",
+          "sendMode": "SEND",
+          "activationType": "HOLD",
+          "spaceTicks": 0,
+          "keybind": {
+            "version": 0,
+            "keyName": "key.keyboard.o",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "altKeybind": {
+            "version": 0,
+            "keyName": "key.keyboard.unknown",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "messages": [
+            {
+              "version": 1,
+              "string": "/gadget",
+              "delayTicks": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "spDefault": 0,
+  "mpDefault": 0,
+  "defaultConflictStrategy": "SUBMIT",
+  "defaultSendMode": "SEND",
+  "defaultActivationType": "HOLD",
+  "ratelimitCount": 4,
+  "ratelimitTicks": 20,
+  "ratelimitStrict": false,
+  "ratelimitSp": false,
+  "lengthLimitLength": 256
+}

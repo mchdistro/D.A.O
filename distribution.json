@@ -126,6 +126,26 @@
           }
         },
         {
+          "id": "me.axieum.mcmod.authme.impl:authme:9.0.1+1.21.4@jar",
+          "name": "Auth Me",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 376047,
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/fabricmods/required/authme-fabric-9.0.1+1.21.4.jar",
+            "MD5": "3c220399e5c34dae32224818c7acaa6c"
+          }
+        },
+        {
+          "id": "kr.shihyeon:blurserveraddress:1.2.0+mc1.21.2@jar",
+          "name": "BlurServerAddress",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 11418,
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/fabricmods/required/blurserveraddress-fabric-1.2.0+mc1.21.2.jar",
+            "MD5": "1294fe12bfc2d2dbe8e4541c27873fd2"
+          }
+        },
+        {
           "id": "com.ebicep:chatplus:2.6.0@jar",
           "name": "ChatPlus",
           "type": "FabricMod",
@@ -146,6 +166,26 @@
           }
         },
         {
+          "id": "dev.terminalmc:commandkeys:2.3.11+1.21.4@jar",
+          "name": "CommandKeys",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 242160,
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/fabricmods/required/commandkeys-fabric-2.3.11+1.21.4.jar",
+            "MD5": "1bc5e1fcf8dad67c54cdb67e7c2d12ed"
+          }
+        },
+        {
+          "id": "bot.colla:donation:2.0.2@jar",
+          "name": "Donation",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 832983,
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/fabricmods/required/donation-fabric-1.21.4-2.0.2.jar",
+            "MD5": "13e5465b5ed84d6b27082119c12e01fa"
+          }
+        },
+        {
           "id": "org.purebluewater:dooseven-custom:1.3.2@jar",
           "name": "Dooseven Custom",
           "type": "FabricMod",
@@ -153,6 +193,16 @@
             "size": 997587,
             "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/fabricmods/required/Dooseven-Custom-1.3.2.jar",
             "MD5": "29036fc61f0e0a29d38aa42900acb3ff"
+          }
+        },
+        {
+          "id": "dev.tr7zw:entityculling:1.8.2@jar",
+          "name": "EntityCulling",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 471072,
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/fabricmods/required/entityculling-fabric-1.8.2-mc1.21.4.jar",
+            "MD5": "3704560df9067f83a263cc78e2e42c25"
           }
         },
         {
@@ -176,6 +226,16 @@
           }
         },
         {
+          "id": "com.anthonyhilyard:iceberg:1.2.13@jar",
+          "name": "Iceberg",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 384309,
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/fabricmods/required/Iceberg-1.21.4-fabric-1.2.13.jar",
+            "MD5": "f3a60a6bee522c264e56107ecca2bb82"
+          }
+        },
+        {
           "id": "generated.fabricmod:iris:1.8.8+mc1.21.4@jar",
           "name": "Iris",
           "type": "FabricMod",
@@ -196,6 +256,16 @@
           }
         },
         {
+          "id": "com.anthonyhilyard:legendarytooltips:1.5.1@jar",
+          "name": "Legendary Tooltips",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 66251,
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/fabricmods/required/LegendaryTooltips-1.21.4-fabric-1.5.1.jar",
+            "MD5": "f173a41f6a01310d31bc5d1eb7f55f92"
+          }
+        },
+        {
           "id": "com.aizistral:nochatreports:1.21.4-v2.11.0@jar",
           "name": "No Chat Reports",
           "type": "FabricMod",
@@ -203,6 +273,26 @@
             "size": 321286,
             "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/fabricmods/required/NoChatReports-FABRIC-1.21.4-v2.11.0.jar",
             "MD5": "47bd3acbbaaf09dae1c5142dc5b3f41c"
+          }
+        },
+        {
+          "id": "su.plo.voice:plasmovoice:2.1.5@jar",
+          "name": "Plasmo Voice",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 12191569,
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/fabricmods/required/plasmovoice-fabric-1.21.4-2.1.5.jar",
+            "MD5": "dde3cf502defa8513b1fb98afbc2dd11"
+          }
+        },
+        {
+          "id": "generated.fabricmod:prism:1.0.10@jar",
+          "name": "Root project 'Prism'",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 61631,
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/fabricmods/required/Prism-1.21.4-fabric-1.0.10.jar",
+            "MD5": "66051303e3433bc10796c2c92f57c7da"
           }
         },
         {
@@ -226,6 +316,16 @@
           }
         },
         {
+          "id": "xaero.minimap:xaerominimap:25.2.10@jar",
+          "name": "Xaero's Minimap",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1733101,
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/fabricmods/required/Xaeros_Minimap_25.2.10_Fabric_1.21.4.jar",
+            "MD5": "4d8ed980c7e2df1810a1b629660c5b32"
+          }
+        },
+        {
           "id": "chatplus-v2.5.0.json",
           "name": "chatplus-v2.5.0.json",
           "type": "File",
@@ -233,6 +333,26 @@
             "size": 9763,
             "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/files/config/chatplus-v2.5.0.json",
             "path": "config/chatplus-v2.5.0.json"
+          }
+        },
+        {
+          "id": "commandkeys.json",
+          "name": "commandkeys.json",
+          "type": "File",
+          "artifact": {
+            "size": 6094,
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/files/config/commandkeys.json",
+            "path": "config/commandkeys.json"
+          }
+        },
+        {
+          "id": "xaerominimap.txt",
+          "name": "xaerominimap.txt",
+          "type": "File",
+          "artifact": {
+            "size": 3646,
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/files/config/xaerominimap.txt",
+            "path": "config/xaerominimap.txt"
           }
         },
         {
@@ -276,6 +396,16 @@
             "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip",
             "MD5": "576ef06da170458879f3a03e685d487a",
             "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.5.1.zip.txt",
+          "name": "ComplementaryUnbound_r5.5.1.zip.txt",
+          "type": "File",
+          "artifact": {
+            "size": 111,
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip.txt",
+            "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip.txt"
           }
         }
       ]
