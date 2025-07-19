@@ -8,7 +8,7 @@
   },
   "servers": [
     {
-      "id": "D.A.O_v2-1.21.4",
+      "id": "D.A.O_v3-1.21.4",
       "name": "두아온",
       "description": "Minecraft 1.21.4 (Fabric v0.16.14)",
       "icon": "https://github.com/mchdistro/D.A.O/raw/main/server-icon.png",
@@ -121,7 +121,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 589645,
-            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/fabricmods/required/architectury-15.0.3-fabric.jar",
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v3-1.21.4/fabricmods/required/architectury-15.0.3-fabric.jar",
             "MD5": "29796a5960d833cf95d6f46668c13d55"
           }
         },
@@ -131,7 +131,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 376047,
-            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/fabricmods/required/authme-fabric-9.0.1+1.21.4.jar",
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v3-1.21.4/fabricmods/required/authme-fabric-9.0.1+1.21.4.jar",
             "MD5": "3c220399e5c34dae32224818c7acaa6c"
           }
         },
@@ -141,7 +141,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 11418,
-            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/fabricmods/required/blurserveraddress-fabric-1.2.0+mc1.21.2.jar",
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v3-1.21.4/fabricmods/required/blurserveraddress-fabric-1.2.0+mc1.21.2.jar",
             "MD5": "1294fe12bfc2d2dbe8e4541c27873fd2"
           }
         },
@@ -151,7 +151,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 26736918,
-            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/fabricmods/required/chatplus-fabric-2.6.0.jar",
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v3-1.21.4/fabricmods/required/chatplus-fabric-2.6.0.jar",
             "MD5": "335c0f0a72abca3a93892cae05cce1d8"
           }
         },
@@ -161,7 +161,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1152857,
-            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/fabricmods/required/cloth-config-17.0.144-fabric.jar",
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v3-1.21.4/fabricmods/required/cloth-config-17.0.144-fabric.jar",
             "MD5": "07b7d5bc15bdc7387cf8890d0c460b54"
           }
         },
@@ -171,7 +171,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 242160,
-            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/fabricmods/required/commandkeys-fabric-2.3.11+1.21.4.jar",
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v3-1.21.4/fabricmods/required/commandkeys-fabric-2.3.11+1.21.4.jar",
             "MD5": "1bc5e1fcf8dad67c54cdb67e7c2d12ed"
           }
         },
@@ -181,7 +181,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 832983,
-            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/fabricmods/required/donation-fabric-1.21.4-2.0.2.jar",
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v3-1.21.4/fabricmods/required/donation-fabric-1.21.4-2.0.2.jar",
             "MD5": "13e5465b5ed84d6b27082119c12e01fa"
           }
         },
@@ -191,7 +191,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 997587,
-            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/fabricmods/required/Dooseven-Custom-1.3.2.jar",
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v3-1.21.4/fabricmods/required/Dooseven-Custom-1.3.2.jar",
             "MD5": "29036fc61f0e0a29d38aa42900acb3ff"
           }
         },
@@ -201,7 +201,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 471072,
-            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/fabricmods/required/entityculling-fabric-1.8.2-mc1.21.4.jar",
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v3-1.21.4/fabricmods/required/entityculling-fabric-1.8.2-mc1.21.4.jar",
             "MD5": "3704560df9067f83a263cc78e2e42c25"
           }
         },
@@ -211,7 +211,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2148367,
-            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/fabricmods/required/fabric-api-0.119.3+1.21.4.jar",
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v3-1.21.4/fabricmods/required/fabric-api-0.119.3+1.21.4.jar",
             "MD5": "179994db46a00373614c47fb669d1dd3"
           }
         },
@@ -221,7 +221,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 7387359,
-            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/fabricmods/required/fabric-language-kotlin-1.13.4+kotlin.2.2.0.jar",
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v3-1.21.4/fabricmods/required/fabric-language-kotlin-1.13.4+kotlin.2.2.0.jar",
             "MD5": "5edf1cfa6574e3e1e38c2e4f1b5a557e"
           }
         },
@@ -231,7 +231,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 384309,
-            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/fabricmods/required/Iceberg-1.21.4-fabric-1.2.13.jar",
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v3-1.21.4/fabricmods/required/Iceberg-1.21.4-fabric-1.2.13.jar",
             "MD5": "f3a60a6bee522c264e56107ecca2bb82"
           }
         },
@@ -241,7 +241,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2682702,
-            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/fabricmods/required/iris-fabric-1.8.8+mc1.21.4.jar",
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v3-1.21.4/fabricmods/required/iris-fabric-1.8.8+mc1.21.4.jar",
             "MD5": "59d373e4874efbcb8fb426bdefa588d9"
           }
         },
@@ -251,7 +251,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 578977,
-            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/fabricmods/required/koreanpatch-fabric-1.8.5+mc1.21.3.jar",
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v3-1.21.4/fabricmods/required/koreanpatch-fabric-1.8.5+mc1.21.3.jar",
             "MD5": "fcf0f59c7f45c751af04527080bc4e28"
           }
         },
@@ -261,7 +261,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 66251,
-            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/fabricmods/required/LegendaryTooltips-1.21.4-fabric-1.5.1.jar",
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v3-1.21.4/fabricmods/required/LegendaryTooltips-1.21.4-fabric-1.5.1.jar",
             "MD5": "f173a41f6a01310d31bc5d1eb7f55f92"
           }
         },
@@ -271,7 +271,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 321286,
-            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/fabricmods/required/NoChatReports-FABRIC-1.21.4-v2.11.0.jar",
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v3-1.21.4/fabricmods/required/NoChatReports-FABRIC-1.21.4-v2.11.0.jar",
             "MD5": "47bd3acbbaaf09dae1c5142dc5b3f41c"
           }
         },
@@ -281,7 +281,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 12191569,
-            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/fabricmods/required/plasmovoice-fabric-1.21.4-2.1.5.jar",
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v3-1.21.4/fabricmods/required/plasmovoice-fabric-1.21.4-2.1.5.jar",
             "MD5": "dde3cf502defa8513b1fb98afbc2dd11"
           }
         },
@@ -291,7 +291,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 61631,
-            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/fabricmods/required/Prism-1.21.4-fabric-1.0.10.jar",
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v3-1.21.4/fabricmods/required/Prism-1.21.4-fabric-1.0.10.jar",
             "MD5": "66051303e3433bc10796c2c92f57c7da"
           }
         },
@@ -301,7 +301,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1306799,
-            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v3-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
             "MD5": "28922a78d1876ee062e3265f10abcc46"
           }
         },
@@ -311,7 +311,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 154830,
-            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/fabricmods/required/WI-Zoom-1.6-MC1.21.4.jar",
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v3-1.21.4/fabricmods/required/WI-Zoom-1.6-MC1.21.4.jar",
             "MD5": "1062016a1608823555c1bf16fafeb6cd"
           }
         },
@@ -321,7 +321,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1733101,
-            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/fabricmods/required/Xaeros_Minimap_25.2.10_Fabric_1.21.4.jar",
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v3-1.21.4/fabricmods/required/Xaeros_Minimap_25.2.10_Fabric_1.21.4.jar",
             "MD5": "4d8ed980c7e2df1810a1b629660c5b32"
           }
         },
@@ -331,7 +331,7 @@
           "type": "File",
           "artifact": {
             "size": 9763,
-            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/files/config/chatplus-v2.5.0.json",
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v3-1.21.4/files/config/chatplus-v2.5.0.json",
             "path": "config/chatplus-v2.5.0.json"
           }
         },
@@ -341,8 +341,19 @@
           "type": "File",
           "artifact": {
             "size": 6094,
-            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/files/config/commandkeys.json",
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v3-1.21.4/files/config/commandkeys.json",
             "path": "config/commandkeys.json"
+          }
+        },
+        {
+          "id": "iris.properties",
+          "name": "iris.properties",
+          "type": "File",
+          "artifact": {
+            "size": 44,
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v3-1.21.4/files/config/iris.properties",
+            "MD5": "09c315fde1a3921d94fb0a1492146785",
+            "path": "config/iris.properties"
           }
         },
         {
@@ -351,7 +362,7 @@
           "type": "File",
           "artifact": {
             "size": 3646,
-            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/files/config/xaerominimap.txt",
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v3-1.21.4/files/config/xaerominimap.txt",
             "path": "config/xaerominimap.txt"
           }
         },
@@ -360,8 +371,8 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 212,
-            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/files/options.txt",
+            "size": 5599,
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v3-1.21.4/files/options.txt",
             "path": "options.txt"
           }
         },
@@ -371,7 +382,7 @@
           "type": "File",
           "artifact": {
             "size": 142919329,
-            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/files/resourcepacks/generated.zip",
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v3-1.21.4/files/resourcepacks/generated.zip",
             "MD5": "cf1278a80efd0e5a44e05ed6c467b586",
             "path": "resourcepacks/generated.zip"
           }
@@ -382,7 +393,7 @@
           "type": "File",
           "artifact": {
             "size": 237,
-            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/files/servers.dat",
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v3-1.21.4/files/servers.dat",
             "MD5": "024989d1f9c72f3e19963645b4d246b0",
             "path": "servers.dat"
           }
@@ -393,7 +404,7 @@
           "type": "File",
           "artifact": {
             "size": 456332,
-            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip",
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v3-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip",
             "MD5": "576ef06da170458879f3a03e685d487a",
             "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip"
           }
@@ -404,7 +415,7 @@
           "type": "File",
           "artifact": {
             "size": 111,
-            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v2-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip.txt",
+            "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v3-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip.txt",
             "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip.txt"
           }
         }
