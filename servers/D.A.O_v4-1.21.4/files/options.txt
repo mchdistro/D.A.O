@@ -51,7 +51,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:false
-resourcePacks:["vanilla","fabric"]
+resourcePacks:["vanilla","fabric","file/generated.zip"]
 incompatibleResourcePacks:["authme","commandkeys","koreanpatch","xaerominimap"]
 lastServer:
 lang:ko_kr
