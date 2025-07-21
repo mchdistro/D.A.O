@@ -75,25 +75,25 @@
     "inputBoxAutoAdjustChatWindowEnabled": true,
     "tabNotificationSettings": {
         "enabled": true,
-        "scale": 0.4
+        "scale": 0.2
     },
-    "movableChatEnabled": true,
+    "movableChatEnabled": false,
     "movableChatShowEnabledOnScreen": true,
     "movableChatKey": {
-        "key": "key.keyboard.right.control",
+        "key": "key.keyboard.pause",
         "modifier": 0
     },
     "movableChatColor": -922746881,
     "movableChatSelectedColor": -939458816,
     "movableChatToggleTextBarElement": false,
     "inputBoxSettings": {
-        "startY": -10,
+        "startY": 498,
         "normalizeInputWhileTyping": false,
         "maxInputBoxInputLength": 1280,
         "showInputBoxInputLength": true,
         "showInputBoxInputLengthBackgroundColor": 0
     },
-    "sendNoteEnabled": true,
+    "sendNoteEnabled": false,
     "sendNoteKey": {
         "key": "key.keyboard.enter",
         "modifier": 4
@@ -110,7 +110,7 @@
     "hoverHighlightLinePriority": 0,
     "hoverHighlightMode": "BRIGHTER",
     "hoverHighlightColor": 419430400,
-    "bookmarkEnabled": true,
+    "bookmarkEnabled": false,
     "bookmarkLinePriority": 30,
     "bookmarkColor": -925260989,
     "bookmarkKey": {
@@ -123,7 +123,7 @@
         "modifier": 2
     },
     "autoBookMarkPatterns": [],
-    "findMessageEnabled": true,
+    "findMessageEnabled": false,
     "findMessageHighlightInputBox": false,
     "findMessageHighlightMatchedText": true,
     "findMessageIgnoreCase": true,
@@ -147,7 +147,7 @@
         "key": "key.keyboard.d",
         "modifier": 2
     },
-    "screenshotChatEnabled": true,
+    "screenshotChatEnabled": false,
     "screenshotChatCopyToClipboard": true,
     "screenshotChatSaveToFile": true,
     "screenshotChatAutoUpload": true,
@@ -168,7 +168,7 @@
     "keyFineScroll": "key.keyboard.left.shift",
     "keyLargeScroll": "key.keyboard.left.alt",
     "keyPeekChat": "key.keyboard.p",
-    "translatorEnabled": true,
+    "translatorEnabled": false,
     "translatorTextBarElementEnabled": true,
     "translatorRegexes": [],
     "translateTo": "Auto Detect",
@@ -225,9 +225,9 @@
             },
             "renderer": {
                 "x": 0,
-                "y": 210,
-                "width": 373,
-                "height": 207
+                "y": 464,
+                "width": 348,
+                "height": 180
             },
             "tabSettings": {
                 "selectedTabIndex": 0,
@@ -255,7 +255,7 @@
                         "pattern": "(▣.*|>.*에게 보냄 :.*)",
                         "formatted": false,
                         "name": "귓속말",
-                        "autoPrefix": "",
+                        "autoPrefix": "/답장 ",
                         "serverTabPatterns": [],
                         "priority": 0,
                         "alwaysAdd": false,
@@ -268,6 +268,30 @@
                         "formatted": false,
                         "name": "파티",
                         "autoPrefix": ">p ",
+                        "serverTabPatterns": [],
+                        "priority": 0,
+                        "alwaysAdd": false,
+                        "skipOthers": false,
+                        "commandsOverrideAutoPrefix": true,
+                        "temporary": false
+                    },
+                    {
+                        "pattern": "^\\[길드\\].*",
+                        "formatted": false,
+                        "name": "길드",
+                        "autoPrefix": ">g ",
+                        "serverTabPatterns": [],
+                        "priority": 0,
+                        "alwaysAdd": false,
+                        "skipOthers": false,
+                        "commandsOverrideAutoPrefix": true,
+                        "temporary": false
+                    },
+                    {
+                        "pattern": "(⨁ .*|⨏ .*)",
+                        "formatted": false,
+                        "name": "시스템",
+                        "autoPrefix": "",
                         "serverTabPatterns": [],
                         "priority": 0,
                         "alwaysAdd": false,
