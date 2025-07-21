@@ -391,9 +391,9 @@
           "name": "generated.zip",
           "type": "File",
           "artifact": {
-            "size": 155110036,
+            "size": 155190389,
             "url": "https://github.com/mchdistro/D.A.O/raw/main/servers/D.A.O_v5-1.21.4/files/resourcepacks/generated.zip",
-            "MD5": "c828cc24ffc991e43a68019220231a3c",
+            "MD5": "790397c00bd74de7c9c89c9c8c7bff81",
             "path": "resourcepacks/generated.zip"
           }
         },
